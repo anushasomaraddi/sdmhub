@@ -1,0 +1,27 @@
+.font{
+padding-left: 120px;
+  font-family: 'Merriweather', serif;
+}
+.link{
+  color: #541212;
+  padding-left: 120px;
+    font-family: 'Merriweather', serif;
+}
+.placement-title{
+float: right;
+padding-top:10px;
+color: #ffff;
+  font-family: 'Merriweather', serif;
+  padding-right: 120px;
+}
+
+.hi{
+background-color: #4F091D;
+color:#ffff;
+  padding-top: 10px;
+    font-family: 'Merriweather', serif;
+    padding-left: 100px;
+}
+h1{
+top: 10PX;
+}

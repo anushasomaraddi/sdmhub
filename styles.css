@@ -1,0 +1,229 @@
+/*----------------------pics--------------------------*/
+
+.sdm-college{
+
+   position:absolute;
+   padding-top: 10px;
+ height: 580px;
+ margin-top: 5px;
+padding-right: 10px;
+height:630px;
+ /*size:90px*/
+   width:750px;
+  /*padding-right: 20px;*/
+
+
+
+}
+
+.link{
+  text-decoration: none;
+}
+.logo{
+  width:20%;
+  float:left;
+
+margin-top: 50px ;
+margin-left: 30px;
+margin-right: 20px;
+
+}
+.container-fluid{
+   padding-top: 30px;
+   line-height: 0.5px;
+
+
+}
+body{
+  background:lavender;
+}
+h4{
+  font-family: 'Montserrat', sans-serif;
+}
+/*.sdmhub{
+  font-family:"Montserrat-Bold";
+  font-size: 30px;
+  padding-top: 40px;
+  padding-right: 10px;
+}*/
+/*-----------------------title-----------------------------------------------*/
+.sdmhub{
+   padding: 70px;
+   font-size: 50px;
+   line-height: 0.75px;
+}
+.hub{
+  font-size: 35px;
+  color:black;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:Bold;
+
+}
+.SDM{
+  color:#9B0000;
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+
+}
+#top{
+
+}
+/*-----------------------------form----------------------------*/
+
+.row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.col-1 {
+  flex-basis: 50%;
+  min-width: 300px;
+}
+
+.form-box {
+  width: 300px;
+  height: 400px;
+  position: absolute;
+  top: 250px;
+  right: 1000px;
+  background:F4F9F9;
+}
+
+.main-heading {
+  color: white;
+  padding-bottom: 20px;
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+  color:#92A9BD;
+}
+
+.form {
+  position: relative;
+  margin: 10 auto 100px;
+  padding: 45px;
+  text-align: center;
+}
+
+.form input {
+  font-family: sans-serif;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid black;
+  width: 100%;
+  margin: 0 0 15px;
+  padding: 15px;
+  font-size: 14px;
+}
+
+.form button {
+  font-family: sans-serif;
+  width: 100%;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+  padding: 15px;
+  border: none;
+  background: #9B0000;
+}
+
+.form .message {
+  font-size: 12px;
+  margin: 15px 0 0;
+  color: white;
+}
+
+.form .message a {
+  color: #9B0000;
+  text-decoration: none;
+}
+
+.form .register-form {
+  display: none;
+}
+
+.defination {
+  text-align: left;
+  font-size: 30px;
+  color: white;
+  font-family: 'Kaushan Script', cursive;
+  padding-left: 60px;
+}
+.loginclass{
+  padding-bottom: 100px;
+}
+.user{
+  font-family:'Montserrat-light', sans-serif ;
+}
+.message{
+  color:#92A9BD;
+
+}
+.loginclass{
+margin-right:80px;
+}
+/*---------------------------------------------textblock and sliding text-------------------------------*/
+.sdmfixed{
+   position: fixed;
+   padding-left: 170px;
+   margin-right:40px;
+}
+.slidetext{
+  font-size: 20px;
+  height:40px;
+
+
+}
+.text-block{
+font-family: 'Nunito', sans-serif;
+  position: absolute;
+  bottom:600px;
+  right:20px;
+  opacity: inherit;
+  color:#000957;
+  padding-left: 25px;
+  padding-right: 20px;
+  line-height: 1.3em;
+
+}
+.imgtextbox{
+  font-family: 'Nunito', sans-serif;
+  position:relative;
+  background-color:rgba(0,0,0,0.5);
+
+  height:20px;
+  /* top:600px; */
+  right:20px;
+  top:595px;
+  right:1px;
+    line-height: 1.3em;
+    padding-bottom:  40px;
+    padding-right: 10px;
+    size:90px;
+}
+.imgtext{
+  font-size: 15.5px;
+  height:60px;
+  color: #CCD1E4;
+}
+/*------------------------------------------------Button----------------------------------------------*/
+.btn {
+  background: #8E0505;
+  background-image: -webkit-linear-gradient(top, #8E0505, #852747);
+  background-image: -moz-linear-gradient(top, #8E0505, #852747);
+  background-image: -ms-linear-gradient(top, #8E0505, #852747);
+  background-image: -o-linear-gradient(top, #8E0505, #852747);
+  background-image: linear-gradient(to bottom, #8E0505, #852747);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 2px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 6px 16px 7px 13px;
+  text-decoration: none;
+}
+.btn:hover{
+  text-decoration: none;
+}
